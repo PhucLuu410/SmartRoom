@@ -1,0 +1,3 @@
+../Core/Src/Flash.c:9:6:FlashErase	1
+../Core/Src/Flash.c:21:6:FlashWrite	1
+../Core/Src/Flash.c:27:5:FlashRead	1

@@ -1,0 +1,9 @@
+../Core/Src/LCD20x4.c:4:13:LCD_Enable	1
+../Core/Src/LCD20x4.c:11:13:LCD_SendNibble	1
+../Core/Src/LCD20x4.c:19:6:LCD_Init	1
+../Core/Src/LCD20x4.c:46:6:LCD_SendCommand	1
+../Core/Src/LCD20x4.c:52:6:LCD_SendData	1
+../Core/Src/LCD20x4.c:58:6:LCD_SendString	2
+../Core/Src/LCD20x4.c:64:6:LCD_SetCursor	5
+../Core/Src/LCD20x4.c:76:6:LCD_Clear	1
+../Core/Src/LCD20x4.c:80:6:LCD_PrintInt	1
